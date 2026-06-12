@@ -10,8 +10,8 @@ const APP_VERSION  = '2.0';
 const DATA_VERSION = 1; // bump when backup schema changes
 
 /* ── TELEGRAM ANALYTICS ── */
-const TG_TOKEN   = '7912834681:AAE1Nf7-coYuj5q7KFq6Qtbo7eDNHmpN1-4';
-const TG_CHAT_ID = 1189173824;
+const TG_TOKEN   = 'NUMBERS';
+const TG_CHAT_ID = NUMBERS;
 
 /* ── PLATFORM DETECTION ── */
 const Platform = {
